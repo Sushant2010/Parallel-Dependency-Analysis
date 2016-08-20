@@ -1,0 +1,18 @@
+template <typename T>
+MNode<T>::~MNode() {}
+
+for (auto pChild : this->_children) {
+	
+	PutIndentation(count);
+		
+	ShowHelper(pChild, count);
+
+ss
+ss
+ss
+	
+}
+
+struct ITokCollection
+{
+};
